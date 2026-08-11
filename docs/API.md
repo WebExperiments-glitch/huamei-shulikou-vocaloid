@@ -1,3 +1,5 @@
+> 为了提升用户体验，本仓库将不会更新，全面在另一个网址更新：https://github.com/WebExperiments-glitch/biliboard-opensource
+
 # 术力口周榜 — API 接口文档
 
 > 版本：0.1.0（正式版）

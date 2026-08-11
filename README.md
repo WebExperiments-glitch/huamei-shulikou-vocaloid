@@ -1,3 +1,5 @@
+> 为了提升用户体验，本仓库将不会更新，全面在另一个网址更新：https://github.com/WebExperiments-glitch/biliboard-opensource
+
 # huamei术力口 — VOCALOID 周榜实时追踪
 
 > v0.1.0 | CC BY-NC 4.0
